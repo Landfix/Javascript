@@ -16,7 +16,7 @@ var obj = {};
 console.log(number * 10);
 
 let persone = {
-    name: "Jonh",
+    name: "Stiv",
     age: 20,
     isMarried: false
 };
