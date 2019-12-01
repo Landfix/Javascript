@@ -137,35 +137,3 @@ let appData = {
 };
 
 
-// btn[0].onclick = function(){
-//     alert("Вы нажали!");
-// }
-
-// btn[0].onclick = function(){
-//     alert("ВЫ снова нажали!");
-// }
-
-// btn[0].addEventListener("mouseover", function(){
-//     alert("Супер!");
-// })
-
-// btn[0].addEventListener("mouseover", function(){
-//     alert("Супер супер");
-// })
-
-// btn[0].addEventListener("mouseover", function(){
-//     alert("ОШибка");
-// })
-
-// btn[0].addEventListener("click", function(event){
-//     console.log(" Произошло событие: " + event.type + " На элементе " + event.target);
-// });
-
-
-// wrap.addEventListener("click", function(){
-//     console.log(" Произошло событие: " + event.type + " На элементе " + event.target);
-// });
-
-
-
-
